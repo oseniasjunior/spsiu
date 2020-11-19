@@ -1,0 +1,4 @@
+﻿  xfstest.cpp
+C:\Users\ozzy\source\repos\xfs\xfstest\xfstest.cpp(11,1): warning C4005: 'TEXT': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(603): message : consulte a definição anterior de 'TEXT'
+  xfstest.vcxproj -> C:\Users\ozzy\source\repos\xfs\Debug\xfstest.exe

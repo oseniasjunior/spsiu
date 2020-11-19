@@ -1,0 +1,69 @@
+17:58:12.495 RegOpenKeyEx( x80000001, XFS )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.495 OpenKey( HKEY_CURRENT_USER,WOSA_CURRENT_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2168)
+17:58:12.589 
+(Date)18.11.2020 (Time)17:58.12,589
+WFPOpen OK
+17:58:12.495 RegOpenKeyEx( x80000003, .DEFAULT\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.590 
+(Date)18.11.2020 (Time)17:58.12,590
+WFPUnloadService OK
+17:58:12.495 OpenKey(HKEY_USERS,WOSA_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2210)
+17:58:12.708 APICALL: WFSCleanUp: Entered
+17:58:12.711 
+(Date)18.11.2020 (Time)17:58.12,711
+WFPUnloadService OK
+17:58:12.745 APICALL: WFSCleanUp: Exit
+17:58:12.495 OpenKey returning *phkResult x268
+17:58:12.495 RegOpenKeyEx( x268, LOGICAL_SERVICES\Sensores )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.495 OpenKey( hKeyT,lpszSubKey,0,KEY_READ | KEY_WRITE,phkResult ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2341)
+17:58:12.495 OpenKey returning *phkResult x26c
+17:58:12.495 RegOpenKeyEx( x80000002, SOFTWARE\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.495 OpenKey(HKEY_LOCAL_MACHINE,WOSA_LOCAL_MACHINE_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2253)
+17:58:12.495 OpenKey returning *phkResult x268
+17:58:12.495 RegOpenKeyEx( x268, SERVICE_PROVIDERS\Sensores_Conceito )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.495 OpenKey( hKeyT,lpszSubKey,0,KEY_READ | KEY_WRITE,phkResult ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2341)
+17:58:12.495 OpenKey returning *phkResult x270
+17:58:12.551 RegOpenKeyEx( x80000001, XFS )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.551 OpenKey( HKEY_CURRENT_USER,WOSA_CURRENT_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2168)
+17:58:12.551 RegOpenKeyEx( x80000003, .DEFAULT\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.551 OpenKey(HKEY_USERS,WOSA_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2210)
+17:58:12.551 OpenKey returning *phkResult x26c
+17:58:12.551 RegOpenKeyEx( x26c, LOGICAL_SERVICES\Sensores )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+17:58:12.551 OpenKey( hKeyT,lpszSubKey,0,KEY_READ | KEY_WRITE,phkResult ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2341)
+17:58:12.551 OpenKey returning *phkResult x27c
+18:03:08.879 RegOpenKeyEx( x80000001, XFS )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.879 Unable to open logical service key at either XFS 3.0 location
+18:03:08.879 Unable to open logical service key at XFS 2.0 location
+18:03:08.879 Unable to get DLL name for logical service
+18:03:08.880 APICALL: WFSCleanUp: Entered
+18:03:08.880 Unable to open logical service key at either XFS 3.0 location
+18:03:08.880 Unable to open logical service key at XFS 2.0 location
+18:03:08.880 Unable to get DLL name for logical service
+18:03:08.887 APICALL: WFSCleanUp: Exit
+18:03:08.879 OpenKey( HKEY_CURRENT_USER,WOSA_CURRENT_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2168)
+18:03:08.879 RegOpenKeyEx( x80000003, .DEFAULT\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.879 OpenKey(HKEY_USERS,WOSA_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2210)
+18:03:08.879 OpenKey returning *phkResult x268
+18:03:08.879 RegOpenKeyEx( x268, LOGICAL_SERVICES\Sensors )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.879 OpenKey( hKeyT,lpszSubKey,0,KEY_READ | KEY_WRITE,phkResult ) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2341)
+18:03:08.879 RegOpenKeyEx( x80000002, SOFTWARE\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.879 OpenKey(HKEY_LOCAL_MACHINE,WOSA_LOCAL_MACHINE_KEY_NAME,0,KEY_ALL_ACCESS,&hKeyWosaRoot) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2391)
+18:03:08.879 OpenKey returning *phkResult x268
+18:03:08.879 RegOpenKeyEx( x268, LOGICAL_SERVICES\Sensors )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.879 OpenKey(hKeyT,lpszSubKey,0,KEY_READ|KEY_WRITE,phkResult) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2418)
+18:03:08.879 RegOpenKeyEx( x80000000, WOSA/XFS_ROOT )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.879 OpenKey( HKEY_CLASSES_ROOT,WOSA_ROOT_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2126)
+18:03:08.880 RegOpenKeyEx( x80000001, XFS )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.880 OpenKey( HKEY_CURRENT_USER,WOSA_CURRENT_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2168)
+18:03:08.880 RegOpenKeyEx( x80000003, .DEFAULT\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.880 OpenKey(HKEY_USERS,WOSA_USER_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot ) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2210)
+18:03:08.880 OpenKey returning *phkResult x26c
+18:03:08.880 RegOpenKeyEx( x26c, LOGICAL_SERVICES\Sensors )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.880 OpenKey( hKeyT,lpszSubKey,0,KEY_READ | KEY_WRITE,phkResult ) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2341)
+18:03:08.880 RegOpenKeyEx( x80000002, SOFTWARE\XFS )) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.880 OpenKey(HKEY_LOCAL_MACHINE,WOSA_LOCAL_MACHINE_KEY_NAME,0,KEY_ALL_ACCESS,&hKeyWosaRoot) failed (reason=5,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2391)
+18:03:08.880 OpenKey returning *phkResult x26c
+18:03:08.880 RegOpenKeyEx( x26c, LOGICAL_SERVICES\Sensors )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.880 OpenKey(hKeyT,lpszSubKey,0,KEY_READ|KEY_WRITE,phkResult) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2418)
+18:03:08.880 RegOpenKeyEx( x80000000, WOSA/XFS_ROOT )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=384)
+18:03:08.880 OpenKey( HKEY_CLASSES_ROOT,WOSA_ROOT_KEY_NAME,0,KEY_READ | KEY_WRITE,&hKeyWosaRoot )) failed (reason=2,file=d:\buffington\development\cen xfs manager\source\xfs_conf.cpp,line=2126)
